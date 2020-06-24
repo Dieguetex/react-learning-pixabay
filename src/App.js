@@ -6,7 +6,7 @@ function App() {
   const [busqueda, guardarBusqueda] = useState("");
   const [imagenes, guardarImagenes] = useState([]);
   const [paginaActual, guardarPaginaActual] = useState(1);
-  const [totalPaginas, guardarTotalPaginas] = useState(5);
+  const [totalPaginas, guardarTotalPaginas] = useState(1);
 
   useEffect(() => {
     const consultarApi = async () => {
