@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deploy
+
+You can see the deployment [here](https://pixabay-react-tuto.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
